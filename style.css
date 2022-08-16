@@ -1,6 +1,15 @@
 body {
 
 	background: #CCCCCC
+
+}
+
+#banner {
+	width: 100%;
+}
+
+h1 {
+	text-align: center
 }
 
 p {
@@ -8,6 +17,18 @@ p {
 	text-align: center;
 }
 
+#missao {
+	 font-size: 20px
+}
+
+#apresentacao {
+	text-align: center;	
+}
+
 em strong {
 	color: #FF0000
+}
+
+.itens {
+	font-style: italic;
 }
