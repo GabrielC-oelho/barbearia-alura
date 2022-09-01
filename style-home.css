@@ -1,0 +1,126 @@
+header {
+	padding-bottom: 4px;
+	padding-top: 4px;
+	
+}
+
+.caixa {
+	text-align: center;
+	text-transform: uppercase;
+	background: url("bg.jpg");
+	background-size: 25%;
+	background-position-x: center;
+	width: 100%;
+	height: 625px;
+	display: block;
+	
+	
+}
+
+h1 {
+	position: static;
+	vertical-align:text-bottom;
+	padding-top: 95px;
+	padding-bottom: 0;
+	width: 100%;
+	height: 37px;
+	display: inline-block;
+}
+
+#pole {
+	position: absolute;
+	width: 300px;
+	margin-left: 800px;
+	display:inline-flex;
+}
+
+#pole-two {
+	position: relative;
+	width: 300px;
+	margin-right: 800px;
+	display:inline-flex;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0;
+}
+
+h2 {
+	padding-bottom: 50px;
+	color: #FFFFFF;
+	text-decoration-line: overline;
+	text-shadow: #FFFFFF;
+	text-align-last: center;
+	font-family:fantasy;
+}
+
+.titulo-principal {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 45px;
+	font-weight:lighter;	
+}
+
+body {
+	
+}
+
+#banner {
+	width: 100%;
+	border-radius: 10px;
+}
+
+.principal {
+	border: 2px solid #000000;
+	border-radius: 10px;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	 font-size: 20px;
+}
+
+#apresentacao {
+	text-align: center;	
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.itens {
+	font-style: italic;
+}
+
+.beneficios {
+	font-size: 40px;
+	background: #FFFFFF;
+	font-style: italic;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+	padding-bottom: 10px;
+}
+
+.imagembeneficios {
+	width: 50%;
+}
